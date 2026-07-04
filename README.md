@@ -1,13 +1,14 @@
 <!--
   Modern, recruiter-friendly GitHub Profile README
   - Personalized for Tholeti Durgeswara Rao
+  - Java Full Stack Developer & CSE Student
   - Ensure Assests/GIF.gif exists at path: Assests/GIF.gif (relative)
 -->
 
 <!-- HERO -->
 <h1 align="center" style="font-size:48px; margin-bottom:0.2rem;">Tholeti Durgeswara Rao</h1>
 <p align="center" style="font-size:18px; color:#6b7280; margin-top:0;">
-  <strong>Building modern web applications with React, Java & MERN Stack</strong> — Full Stack Developer (or CSE Student) • Python & Full-stack • AI & Systems Design
+  <strong>Building scalable web applications with Java, React & MERN Stack</strong> — Full Stack Developer • CSE Student • AI & Modern Web Technologies
 </p>
 
 <p align="center" style="margin-top:1rem">
@@ -37,70 +38,81 @@
     <img src="Assests/GIF.gif" alt="Animated demo" style="max-width:100%; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </a>
   <br />
-  <em style="color:#6b7280; font-size:13px;">Click to view full-size animation (relative path)</em>
+  <em style="color:#6b7280; font-size:13px;">Click to view full-size animation</em>
 </p>
 
 ---
 
 <!-- ABOUT / CURRENTLY -->
 ## About / Currently
-**Role:** Full Stack Developer (or CSE Student) — building production-grade systems, APIs and AI-driven features.  
-**Tech focus:** Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs, Prompt Engineering, Vector DBs, System Design.
 
-What I'm doing right now
-- Leading backend and architecture for scalable web services (Django + FastAPI).
-- Building AI-first features: LLM integration, prompt engineering and vector search.
-- Improving system observability, CI/CD, and cost-optimized cloud infra on AWS.
+**Role:** Full Stack Developer & Computer Science Engineering Student — building production-grade applications, robust APIs, and AI-driven features.  
+**Tech Focus:** Java, Spring Boot, React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, MERN Stack, Microservices, Generative AI, DevOps.
 
-Learning goals
-- Production-grade LLM orchestration (RAG, embeddings, retrieval pipelines).
-- Advanced system design patterns: event-driven, CQRS, multi-tenant strategies.
-- Deepening knowledge of scalable vector DBs and MLOps.
+**What I'm doing right now**
+- Building full-stack web applications with React, Spring Boot, and MERN Stack.
+- Designing and implementing robust REST APIs with Java and Node.js.
+- Exploring Generative AI, LLM integration, and Prompt Engineering.
+- Strengthening backend architecture with Java, Spring Security, and Microservices.
+- Improving DevOps & Cloud infrastructure knowledge with Docker and deployment strategies.
 
-Content & presence
-- I publish technical walkthroughs, architecture notes, and prompt/playground demos on my portfolio and LinkedIn.
+**Learning goals**
+- Master Java Full Stack Development and Spring Boot ecosystem.
+- Build production-ready Microservices architectures.
+- Advanced React.js patterns and performance optimization.
+- Cloud platforms (AWS/Azure) and containerization with Docker & Kubernetes.
+- Generative AI applications and LLM-based solutions.
 
-Ask me about
-- Backend APIs, design & performance
-- Building LLM-powered features and prompt engineering
-- Cloud architecture (AWS) and containerized deployments
-- Postgres & MongoDB schema design and indexing strategies
-- System design interviews & hiring preparation
+**Content & Presence**
+- I regularly share technical projects, certifications, and learning updates on my portfolio and LinkedIn.
+- Actively building projects to strengthen my portfolio and prepare for software engineering opportunities.
+
+**Ask me about**
+- Java, Spring Boot & Backend Development
+- React.js & Frontend Technologies
+- MERN Stack (MongoDB, Express, React, Node.js)
+- REST APIs & Microservices
+- Database Design (SQL, MongoDB, MySQL)
+- Full Stack Development & System Design
+- Generative AI & Prompt Engineering
+- Placement & Interview Preparation
 
 ---
 
 <!-- SKILLS SHOWCASE -->
 ## Skills
-A curated, recruiter-friendly summary of my technical skills.
 
-### Backend
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" alt="backend icons" />
+A curated, recruiter-friendly summary of my technical expertise.
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,js" alt="frontend icons" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" alt="programming languages" />
 
-### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github" alt="cloud devops icons" />
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="frontend icons" />
 
-### Databases
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" alt="database icons" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,nodejs,express,spring" alt="backend icons" />
 
-### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,transformers,langchain" alt="ai ml icons" />
-<img src="https://img.shields.io/badge/-LLMs-F7DF1E?style=flat&logo=openai" alt="LLMs" />
-<img src="https://img.shields.io/badge/-VectorDB-6EE7B7?style=flat" alt="Vector DBs" />
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="database icons" />
 
-### Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,terraform" alt="tools icons" />
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,aws,github,git" alt="cloud devops icons" />
 
-Notes:
-- Badges are powered by skillicons.dev and shields.io for crisp, modern visuals.
-- If you want a variant with devicons or more badges per category, I can add that.
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman" alt="tools icons" />
+
+### 🤖 Currently Learning
+<img src="https://img.shields.io/badge/-Generative%20AI-F7DF1E?style=flat&logo=openai&logoColor=black" alt="GenAI" />
+<img src="https://img.shields.io/badge/-DevSecOps-FF6B6B?style=flat&logo=docker&logoColor=white" alt="DevSecOps" />
+<img src="https://img.shields.io/badge/-Microservices-4A90E2?style=flat&logo=spring&logoColor=white" alt="Microservices" />
+<img src="https://img.shields.io/badge/-Cloud-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Cloud" />
 
 ---
 
 <!-- GITHUB ANALYTICS -->
 ## GitHub Analytics
+
 <p align="center">
   <!-- Stats card -->
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ESWAR8357&show_icons=true&theme=tokyonight" width="48%" />
@@ -114,20 +126,21 @@ Notes:
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ESWAR8357&theme=gruvbox&row=1" width="48%" />
 </p>
 
-> Tip: To enable dynamic stats, the README already references your GitHub username (ESWAR8357). If you prefer a consistent theme (e.g., "github_dark" or "radical"), I can tailor the cards.
-
 ---
 
 <!-- CONTACT -->
-## Let's connect
-- Portfolio: https://tholeti-eswar.vercel.app  
-- Email: toletidurgeswararao@gmail.com  
-- LinkedIn: https://linkedin.com/in/tholeti-eswar57  
-- Open to: full-time roles, contract, collaboration on AI/ML and system design projects.
+## Let's Connect
+
+I'm open to full-time opportunities, collaborations, and discussions about Java, Web Development, AI, and System Design.
+
+- **Portfolio:** https://tholeti-eswar.vercel.app  
+- **Email:** toletidurgeswararao@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/tholeti-eswar57  
+- **GitHub:** https://github.com/ESWAR8357
 
 ---
 
 <!-- FOOTER -->
 <p align="center" style="margin-top:1.5rem;">
-  Made with ❤️ • Tholeti Durgeswara Rao • Built for clarity, hireability, and product-readiness.
+  Made with ❤️ • Tholeti Durgeswara Rao • Building Tomorrow's Web Today
 </p>
