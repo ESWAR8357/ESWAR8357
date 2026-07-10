@@ -35,10 +35,11 @@
 <!-- INTERACTIVE ASCII ART SECTION -->
 <p align="center">
   <details>
-    <summary style="cursor: pointer; font-size: 18px; font-weight: bold; color: #00d4ff; padding: 12px; border: 2px solid #00d4ff; border-radius: 8px; display: inline-block; background: rgba(0, 212, 255, 0.1);">
-      🎨 Click to Reveal Something Cool! ✨
+    <summary style="cursor: pointer; font-size: 16px; font-weight: bold; color: #00d4ff; padding: 14px 20px; border: 2px dashed #00d4ff; border-radius: 8px; display: inline-block; background: rgba(0, 212, 255, 0.1); transition: all 0.3s ease; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">
+      🔮 ▓▓▓▓▓ DECRYPT_REALITY.exe ▓▓▓▓▓ 🔮<br/>
+      <span style="font-size: 12px; color: #00ffff; opacity: 0.8;">[ Eyes Only • Authorization Required ]</span>
     </summary>
-    <pre style="font-size:7px;line-height:0.55;max-height:280px;overflow:auto;background:#0b0b0b;color:#00ff88;padding:12px;border-radius:6px;margin-top:12px;border:2px solid #00ff88;box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">**================================+++++++++++++++++++++++++++
+    <pre style="font-size:7px;line-height:0.55;max-height:280px;overflow:auto;background:#0b0b0b;color:#00ff88;padding:12px;border-radius:6px;margin-top:12px;border:2px solid #00ff88;box-shadow: 0 0 20px rgba(0,255,136,0.3);">
 #*=================================++++++++++++++++++++++++++
 #*===========-=======================++++++++++++++++++++++++
 #*============-========--::....:::::==+++++++++++++++++++++++
@@ -49,7 +50,7 @@
 +-----=#**=:..:::::::::.........................:+***********
 *+----=#+:..:::::::::....:............:..........:+**********
 %+----=+::::..::.................................:+*********#
-%+------::.....:::...::::::::::::::::............-***########
+%+------::.....:::...::::::::::::............-***########
 %+-----::..:..:::::-=*******+=*#*++++=-::........-**#########
 #*----::::....::-=+*#%%%%%%%%%%%%###***+=-:::....:+*#########
 #------=::::.::=**#%%%%%%%%%%%%%%%%%###**++=-::..:+##%%%%%%%%
@@ -86,7 +87,7 @@
 =+**++=......-=---*+**###%%%%@@@@@@@@@@%#****#%=-=:+**=...:-=
     </pre>
     <p align="center" style="color: #00ff88; font-weight: bold; font-size: 14px; margin-top: 10px;">
-      🤯 Pretty cool, right? 😎
+      ✨ Portal Unlocked • Welcome to the Matrix ✨
     </p>
   </details>
 </p>
@@ -181,17 +182,18 @@ A curated, recruiter-friendly summary of my technical expertise.
 <!-- HACKER TERMINAL EASTER EGG -->
 <p align="center">
   <details>
-    <summary style="cursor: pointer; font-size: 16px; font-weight: bold; color: #00ff00; padding: 14px 20px; border: 2px solid #00ff00; border-radius: 8px; display: inline-block; background: rgba(0, 255, 0, 0.05); font-family: 'Courier New', monospace; letter-spacing: 2px; transition: all 0.3s ease; box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);">
-      ▌▌ CLASSIFIED SYSTEM ACCESS ▌▌ 〰️ SECURITY LEVEL: TOP SECRET 〰️
+    <summary style="cursor: pointer; font-size: 16px; font-weight: bold; color: #00ff00; padding: 14px 20px; border: 2px solid #00ff00; border-radius: 8px; display: inline-block; background: rgba(0, 255, 0, 0.05); transition: all 0.3s ease; text-shadow: 0 0 10px rgba(0, 255, 0, 0.4);">
+      ▌▌ ⚠️ CLASSIFIED_SYSTEM_ACCESS.sh ⚠️ ▌▌<br/>
+      <span style="font-size: 11px; color: #ffff00; opacity: 0.9;">[ SECURITY LEVEL: TOP SECRET • AUTHORIZATION REQUIRED ]</span>
     </summary>
     
-    <div style="margin-top: 16px; padding: 20px; background: #0a0a0a; border: 2px solid #00ff00; border-radius: 8px; font-family: 'Courier New', monospace; color: #00ff00; box-shadow: inset 0 0 20px rgba(0, 255, 0, 0.1), 0 0 20px rgba(0, 255, 0, 0.2);">
+    <div style="margin-top: 16px; padding: 20px; background: #0a0a0a; border: 2px solid #00ff00; border-radius: 8px; font-family: 'Courier New', monospace; color: #00ff00; box-shadow: inset 0 0 20px rgba(0, 255, 0, 0.2);">
       
       <!-- BOOT SEQUENCE -->
       <pre style="margin: 0; font-size: 12px; line-height: 1.4; overflow-x: auto;">
-<span style="color: #00ff00;">█████████████████████████████████████████████████████████</span>
+<span style="color: #00ff00;">███████████████████████████████████████████████████████████████</span>
 <span style="color: #00ff00;">█                    ESWAR TERMINAL v2.5                   █</span>
-<span style="color: #00ff00;">█████████████████████████████████████████████████████████</span>
+<span style="color: #00ff00;">███████████████████████████████████████████████████████████████</span>
 
 <span style="color: #ffff00;">⚡ INITIALIZING SECURE CONNECTION...</span>
 <span style="color: #00ff00;">   ✓ Kernel loaded [████████████████] 100%</span>
@@ -217,7 +219,7 @@ A curated, recruiter-friendly summary of my technical expertise.
       </pre>
 
       <!-- ASCII ART -->
-      <pre style="font-size: 7px; line-height: 0.55; max-height: 300px; overflow: auto; background: #000000; color: #00ff00; padding: 12px; border-radius: 6px; border: 1px solid #00ff00; box-shadow: inset 0 0 10px rgba(0, 255, 0, 0.1); margin: 16px 0;">**================================+++++++++++++++++++++++++++
+      <pre style="font-size: 7px; line-height: 0.55; max-height: 300px; overflow: auto; background: #000000; color: #00ff00; padding: 12px; border-radius: 6px; border: 1px solid #00ff00; box-shadow: inset 0 0 10px rgba(0, 255, 0, 0.1);">
 #*=================================++++++++++++++++++++++++++
 #*===========-=======================++++++++++++++++++++++++
 #*============-========--::....:::::==+++++++++++++++++++++++
@@ -228,7 +230,7 @@ A curated, recruiter-friendly summary of my technical expertise.
 +-----=#**=:..:::::::::.........................:+***********
 *+----=#+:..:::::::::....:............:..........:+**********
 %+----=+::::..::.................................:+*********#
-%+------::.....:::...::::::::::::::::............-***########
+%+------::.....:::...::::::::::::............-***########
 %+-----::..:..:::::-=*******+=*#*++++=-::........-**#########
 #*----::::....::-=+*#%%%%%%%%%%%%###***+=-:::....:+*#########
 #------=::::.::=**#%%%%%%%%%%%%%%%%%###**++=-::..:+##%%%%%%%%
@@ -266,7 +268,7 @@ A curated, recruiter-friendly summary of my technical expertise.
 
       <!-- TERMINAL OUTPUT -->
       <pre style="margin: 12px 0; font-size: 12px; line-height: 1.5; color: #00ff00;">
-<span style="color: #00ff00;">---════════════════════════════════════════════════════════---</span>
+<span style="color: #00ff00;">---══════════════════════════════════════════════════════---</span>
 
 <span style="color: #ffff00; font-weight: bold;">🔐 ACCESS GRANTED ✓</span>
 
@@ -276,18 +278,19 @@ A curated, recruiter-friendly summary of my technical expertise.
 <span style="color: #00ff00;">Tholeti Durgeswara Rao</span>
 
 <span style="color: #ffff00;">Role:</span>
-<span style="color: #00ff00;">Java Full Stack Developer</span>
+<span style="color: #00ff00;">Java Full Stack Developer • Software Architect • Problem Solver</span>
 
 <span style="color: #ffff00;">Status:</span>
-<span style="color: #00ff00;">🚀 Building Amazing Projects...</span>
+<span style="color: #00ff00;">🚀 Building Next-Gen Applications...</span>
 
 <span style="color: #ffff00;">Mission:</span>
-<span style="color: #00ff00;">Create software that impacts people.</span>
+<span style="color: #00ff00;">Transform ideas into elegant, scalable solutions.</span>
 
-<span style="color: #00ff00;">---════════════════════════════════════════════════════════---</span>
+<span style="color: #00ff00;">---══════════════════════════════════════════════════════---</span>
 
 <span style="color: #ff00ff; font-weight: bold;">🎯 You've unlocked the hidden developer profile.</span>
 <span style="color: #00ff00;">Congratulations, you've earned developer clearance. 🎖️</span>
+<span style="color: #ffff00;">Keep this information secure. Trust no one.</span>
       </pre>
 
     </div>
