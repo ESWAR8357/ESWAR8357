@@ -1,146 +1,183 @@
-<!--
-  Modern, recruiter-friendly GitHub Profile README
-  - Personalized for Tholeti Durgeswara Rao
-  - Java Full Stack Developer & CSE Student
-  - Ensure Assests/GIF.gif exists at path: Assests/GIF.gif (relative)
--->
+<table>
+<tr>
 
-<!-- HERO -->
-<h1 align="center" style="font-size:48px; margin-bottom:0.2rem;">Tholeti Durgeswara Rao</h1>
-<p align="center" style="font-size:18px; color:#6b7280; margin-top:0;">
-  <strong>Building scalable web applications with Java, React & MERN Stack</strong> — Full Stack Developer • CSE Student • AI & Modern Web Technologies
+<td width="42%">
+
+```text
+**================================+++++++++++++++++++++++++++
+#*=================================++++++++++++++++++++++++++
+#*===========-=======================++++++++++++++++++++++++
+#*============-========--::....:::::==+++++++++++++++++++++++
+#*=============--==--.................:=++++++*+++++++++*****
+#*=====-=======-:.......:.................:++****************
+#*--===*+====-:..............................:+**************
+#*=--==#**+=:..........::....::................-+************
++-----=#**=:..:::::::::.........................:+***********
+*+----=#+:..:::::::::....:............:..........:+**********
+%+----=+::::..::.................................:+*********#
+%+------::.....:::...::::::::::::::::............-***########
+%+-----::..:..:::::-=*******+=*#*++++=-::........-**#########
+#*----::::....::-=+*#%%%%%%%%%%%%###***+=-:::....:+*#########
+#------=::::.::=**#%%%%%%%%%%%%%%%%%###**++=-::..:+##%%%%%%%%
+#------+::::::=+*#%%%%%%%@%%%%%%%%%%###***++=-....*%%%%%%%%%%
+#=--:--+=:..:-+*####%%%%%%%%%%%%%%%%##*****++=....#@@@@@@@@@@
+#+--:-=+=-..:=*#####%%@@@@%%###%@@@%%%%#*+++++:..:%@@@@@@@@@@
+%=--:-=+==-..=#*++*****%%@@@@@@@@@%*+======--=-..-%%@@@@@@@@@
+%=--::=+===:.+==+++====+*#%@@@@@%#*+=+#%%%%#++=..+%%%%@@@@@@@
+#=--:-=+==+-.=#%%@%%%#####%%@@@%####*##*+***#*+:.+#%%########
+%+--:-=+==++.=%%*#*-:-++*##%@@@%#*##*##+-@#-+**-:*+#%#*******
+%=----=+==*+-=%%++@+:-%#+*%%%%%#**#*%%#**#***##+-##*##*******
+#=--:-=+==***+%%%%%%%##*##%%%%%#****######%%%##*-#%*##*******
+@=----++=+#%#*%%%%%%%%%%%%%%%@@%####%%%%%%@%%%#*=+*###*******
+@+----++=+#%#*%%@@@@@@@@@@%%@@%%%#*#%@@@@@@@@%##++####*******
+@=----++=+#*+*%%@@@@@@@@@%%@@@@@@%###%@@@@@@%%##+#*###*******
+@=----*+==*##+#%%@@@@@@@@@%=*%%%+=*%#%@@@@@%%##*+###*********
+@=---=*+==+##%*#%%@@@@@@@%%%@%%%%**#%%%@@@%%##*++#***********
+@=--==#+==++%@%##%%@@@@@@%%#+=+**=-=+****#%##**+++***********
+@=--=+#+==+++++*###%%%#***++**%%%##*+==---+****++************
+@=--=+#+==++++++#####+--+****####%##*+=+*++****+*************
+%==-=+#+==++++++*###*+*#%%%@@@@@@%%####%#**+++++*************
+#*===+%+==+++++***++**#%%@@%%%##*#######*==-==+**************
+@#===+#+==++=+***##+-=+*#%%%@@@%%%%%##*+=:::=-=+*************
+@%+==*%==++==#@##@@*+-:=+*%%%%####*+++=-:.:=+:.:++***********
+@#===*%===++=#@%%%:=**=::=+=====----:-::.:+++-...:-**********
+@%===##==+++=#@*=:.:*##*-::::::::::.:..:=***+-....:-=*******+
+@%===##===++=*+:::.:##%%%#*-::::::::--+***#**=....:::--:.....
+@%===##===++=-::-:.:*%%%%%%%%%%%%%######%%##*+-:..::----:....
+@%===##=====--::-.::*#%%@@@@@@@@@@%%%%%%%%%#*+==.:-=#%+=--...
+@#---##=:.:--:.:::-:+*%%@@@@@@@@@@@@@@%%%%##**+=-:*@%##-..-..
+#+---+=:.-==-:.:::--=*#%%@@@@@@@@@@@@%%%%%##**++-+##+-....-..
+=++++-..+-..-:::::==+**#%%%@@@@@@@@%%%%%%##**+++-=...........
+==+++=:+.....::---*=+**##%%%@@@@@@@@@@@%##***+**-:.::--....:-
+=+**++=......-=---*+**###%%%%@@@@@@@@@@%#****#%=-=:+**=...:-=
+```
+
+</td> <td width="58%">
+
+# 👋 Tholeti Durgeswara Rao
+
+### Java Full Stack Developer
+
+React • Spring Boot • MERN Stack • AI Enthusiast
+
+🚀 Building scalable Java applications
+
+🎓 B.Tech Computer Science Engineering
+
+📍 Andhra Pradesh, India
+
+💼 Open to Software Engineer Opportunities
+
+<br/>
+
+<p>
+  <a href="https://github.com/ESWAR8357" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ESWAR8357-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/tholeti-eswar57" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://tholeti-eswar.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-00acee?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:toletidurgeswararao@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<p align="center" style="margin-top:1rem">
-  <!-- Large clickable social badges -->
-  <a href="https://github.com/ESWAR8357" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/tholeti-eswar57" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/eswar_eternal" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://tholeti-eswar.vercel.app" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:toletidurgeswararao@gmail.com" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ESWAR8357&style=flat-square">
+  <img alt="Followers" src="https://img.shields.io/github/followers/ESWAR8357?label=Followers&style=flat-square">
+  <img alt="Stars" src="https://img.shields.io/github/stars/ESWAR8357?label=Stars&style=flat-square">
 </p>
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0088ff&center=true&vCenter=true&width=520&height=50&lines=Java+Full+Stack+Developer;Spring+Boot;React+Developer;MERN+Stack;AI+Enthusiast;Open+to+Work" alt="Typing SVG"/>
+</p>
 
-<!-- ANIMATED MEDIA -->
+</td> </tr> </table>
+
 <p align="center">
-  <a href="Assests/GIF.gif" target="_blank" rel="noopener">
-    <img src="Assests/GIF.gif" alt="Animated demo" style="max-width:100%; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
-  </a>
-  <br />
-  <em style="color:#6b7280; font-size:13px;">Click to view full-size animation</em>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="animated divider" />
 </p>
 
 ---
 
-<!-- ABOUT / CURRENTLY -->
-## About / Currently
+## About Me
 
-**Role:** Full Stack Developer & Computer Science Engineering Student — building production-grade applications, robust APIs, and AI-driven features.  
-**Tech Focus:** Java, Spring Boot, React.js, Node.js, Express.js, MongoDB, MySQL, REST APIs, MERN Stack, Microservices, Generative AI, DevOps.
+I’m Tholeti Durgeswara Rao — a Java Full Stack Developer passionate about building resilient, maintainable, and scalable applications. I blend a strong backend foundation in Java and Spring Boot with modern frontend technologies like React and MERN-stack tooling. I enjoy integrating AI capabilities into practical solutions and learning new tooling to ship production-ready software.
 
-**What I'm doing right now**
-- Building full-stack web applications with React, Spring Boot, and MERN Stack.
-- Designing and implementing robust REST APIs with Java and Node.js.
-- Exploring Generative AI, LLM integration, and Prompt Engineering.
-- Strengthening backend architecture with Java, Spring Security, and Microservices.
-- Improving DevOps & Cloud infrastructure knowledge with Docker and deployment strategies.
+## Current Focus
 
-**Learning goals**
-- Master Java Full Stack Development and Spring Boot ecosystem.
-- Build production-ready Microservices architectures.
-- Advanced React.js patterns and performance optimization.
-- Cloud platforms (AWS/Azure) and containerization with Docker & Kubernetes.
-- Generative AI applications and LLM-based solutions.
+- Building microservices with Spring Boot and Spring Cloud.
+- Modernizing legacy systems and improving observability.
+- Learning and applying AI/ML APIs to enhance product functionality.
+- Improving system design, scalability, and developer DX.
 
-**Content & Presence**
-- I regularly share technical projects, certifications, and learning updates on my portfolio and LinkedIn.
-- Actively building projects to strengthen my portfolio and prepare for software engineering opportunities.
+## Tech Stack
 
-**Ask me about**
-- Java, Spring Boot & Backend Development
-- React.js & Frontend Technologies
-- MERN Stack (MongoDB, Express, React, Node.js)
-- REST APIs & Microservices
-- Database Design (SQL, MongoDB, MySQL)
-- Full Stack Development & System Design
-- Generative AI & Prompt Engineering
-- Placement & Interview Preparation
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,js,html,css,aws,docker,kubernetes,git" alt="tech stack" />
 
----
+- Backend: Java, Spring Boot, Spring Security, JPA
+- Frontend: React, Redux, TypeScript, HTML5, CSS3
+- Full-stack: MERN (MongoDB, Express, React, Node)
+- DevOps: Docker, GitHub Actions, AWS
+- Databases: MongoDB, MySQL
+- Tools: Postman, IntelliJ IDEA, VS Code
 
-<!-- SKILLS SHOWCASE -->
-## Skills
+## Featured Projects
 
-A curated, recruiter-friendly summary of my technical expertise.
+- Weatherify — Java Spring Boot backend + React frontend for weather insights.  
+  Repo: https://github.com/ESWAR8357/weatherify
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c" alt="programming languages" />
+- TaskMaster — MERN-based task management app with auth and role-based access.  
+  Repo: https://github.com/ESWAR8357/taskmaster
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" alt="frontend icons" />
+- AI-Notes — Notes app with AI summarization and semantic search.  
+  Repo: https://github.com/ESWAR8357/ai-notes
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,nodejs,express,spring" alt="backend icons" />
+(Links above point to my GitHub repositories — feel free to explore for architecture notes, README walkthroughs, and live demos where available.)
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="database icons" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,aws,github,git" alt="cloud devops icons" />
-
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,postman" alt="tools icons" />
-
-### 🤖 Currently Learning
-<img src="https://img.shields.io/badge/-Generative%20AI-F7DF1E?style=flat&logo=openai&logoColor=black" alt="GenAI" />
-<img src="https://img.shields.io/badge/-DevSecOps-FF6B6B?style=flat&logo=docker&logoColor=white" alt="DevSecOps" />
-<img src="https://img.shields.io/badge/-Microservices-4A90E2?style=flat&logo=spring&logoColor=white" alt="Microservices" />
-<img src="https://img.shields.io/badge/-Cloud-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Cloud" />
-
----
-
-<!-- GITHUB ANALYTICS -->
 ## GitHub Analytics
 
-<p align="center">
-  <!-- Stats card -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ESWAR8357&show_icons=true&theme=tokyonight" width="48%" />
-  <!-- Top languages -->
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESWAR8357&layout=compact&theme=tokyonight" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ESWAR8357&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESWAR8357&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## Contribution Graph
+
 <p align="center">
-  <!-- Streaks & trophies -->
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ESWAR8357&theme=dark" width="48%" />
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ESWAR8357&theme=gruvbox&row=1" width="48%" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ESWAR8357&theme=react-dark" alt="Contribution Graph" />
 </p>
+
+## Snake Animation
+
+<p align="center">
+  <img src="https://github.com/ESWAR8357/ESWAR8357/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
+
+## Achievements
+
+- Consistent contributor to open-source projects and personal repositories.
+- Built and deployed multiple full-stack applications to cloud environments.
+- Strong academic foundation: B.Tech in Computer Science Engineering.
+
+## Coding Profiles
+
+- LeetCode: https://leetcode.com/ESWAR8357
+- HackerRank: https://www.hackerrank.com/ESWAR8357
+- CodeChef: https://www.codechef.com/users/ESWAR8357
+
+## Fun Facts
+
+- I love solving algorithmic challenges during coffee breaks.
+- I enjoy reverse-engineering problems to learn better design patterns.
+- Big fan of automated testing and CI/CD pipelines.
+
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+
+## Connect
+
+- GitHub: https://github.com/ESWAR8357  
+- LinkedIn: https://www.linkedin.com/in/tholeti-eswar57  
+- Website: https://tholeti-eswar.vercel.app/  
+- Email: toletidurgeswararao@gmail.com
 
 ---
 
-<!-- CONTACT -->
-## Let's Connect
-
-I'm open to full-time opportunities, collaborations, and discussions about Java, Web Development, AI, and System Design.
-
-- **Portfolio:** https://tholeti-eswar.vercel.app  
-- **Email:** toletidurgeswararao@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/tholeti-eswar57  
-- **GitHub:** https://github.com/ESWAR8357
-
----
-
-<!-- FOOTER -->
-<p align="center" style="margin-top:1.5rem;">
-  Made with ❤️ • Tholeti Durgeswara Rao • Building Tomorrow's Web Today
+<p align="center">
+  Built with ❤️ • Open to new opportunities • Let's build something great.
 </p>
