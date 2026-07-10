@@ -1,3 +1,6 @@
+Code for Github
+
+
 <!--
   Modern, recruiter-friendly GitHub Profile README
   - Personalized for Tholeti Durgeswara Rao
@@ -32,50 +35,14 @@
 
 ---
 
-<!-- ANIMATED MEDIA & PROFESSIONAL HIGHLIGHTS -->
-<div style="display: flex; justify-content: center; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
-  <!-- Animated GIF -->
-  <div style="flex: 1; min-width: 300px;">
-    <p align="center">
-      <a href="Assests/GIF.gif" target="_blank" rel="noopener">
-        <img src="Assests/GIF.gif" alt="Animated demo" style="max-width:100%; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
-      </a>
-      <br />
-      <em style="color:#6b7280; font-size:13px;">Click to view full-size animation</em>
-    </p>
-  </div>
-  
-  <!-- Professional Highlights & Quick Stats -->
-  <div style="flex: 1; min-width: 300px;">
-    <!-- Key Highlights -->
-    <div style="background: #0d1117; color: #58a6ff; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem; box-shadow: 0 6px 18px rgba(0,0,0,0.12);">
-      <h3 style="color: #58a6ff; margin-top: 0; font-size: 14px; border-bottom: 2px solid #58a6ff; padding-bottom: 0.5rem;">📊 HIGHLIGHTS</h3>
-      <ul style="margin: 0.5rem 0; padding-left: 1.2rem; font-size: 12px; line-height: 1.6; color: #c9d1d9;">
-        <li><strong>50+</strong> Repositories</li>
-        <li><strong>Full Stack</strong> Developer</li>
-        <li><strong>Java & MERN</strong> Specialized</li>
-        <li><strong>Spring Boot</strong> Expertise</li>
-        <li><strong>AI/ML</strong> Enthusiast</li>
-      </ul>
-    </div>
-
-    <!-- Quick Links -->
-    <div style="background: #0d1117; color: #58a6ff; padding: 1.5rem; border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);">
-      <h3 style="color: #58a6ff; margin-top: 0; font-size: 14px; border-bottom: 2px solid #58a6ff; padding-bottom: 0.5rem;">🔗 QUICK LINKS</h3>
-      <table style="width: 100%; font-size: 11px; border-collapse: collapse;">
-        <tr style="border-bottom: 1px solid #30363d;">
-          <td style="padding: 0.3rem 0;"><a href="https://tholeti-eswar.vercel.app" style="color: #58a6ff; text-decoration: none;">🌐 Portfolio</a></td>
-          <td style="padding: 0.3rem 0;"><a href="https://linkedin.com/in/tholeti-eswar57" style="color: #58a6ff; text-decoration: none;">💼 LinkedIn</a></td>
-        </tr>
-        <tr style="border-bottom: 1px solid #30363d;">
-          <td style="padding: 0.3rem 0;"><a href="mailto:toletidurgeswararao@gmail.com" style="color: #58a6ff; text-decoration: none;">✉️ Email</a></td>
-          <td style="padding: 0.3rem 0;"><a href="https://github.com/ESWAR8357?tab=repositories" style="color: #58a6ff; text-decoration: none;">📁 Projects</a></td>
-        </tr>
-      </table>
-      <p style="margin-top: 0.8rem; margin-bottom: 0; font-size: 10px; color: #8b949e;">Open to collaborations & opportunities 🚀</p>
-    </div>
-  </div>
-</div>
+<!-- ANIMATED MEDIA -->
+<p align="center">
+  <a href="Assests/GIF.gif" target="_blank" rel="noopener">
+    <img src="Assests/GIF.gif" alt="Animated demo" style="max-width:100%; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+  </a>
+  <br />
+  <em style="color:#6b7280; font-size:13px;">Click to view full-size animation</em>
+</p>
 
 ---
 
