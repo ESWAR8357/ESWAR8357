@@ -32,9 +32,13 @@
 
 ---
 
-<!-- ASCII ART ANIMATION -->
+<!-- INTERACTIVE ASCII ART SECTION -->
 <p align="center">
-  <pre style="font-size:7px;line-height:0.55;max-height:220px;overflow:auto;background:#0b0b0b;color:#c0c0c0;padding:8px;border-radius:6px;display:inline-block;text-align:left;">
+  <details>
+    <summary style="cursor: pointer; font-size: 18px; font-weight: bold; color: #00d4ff; padding: 12px; border: 2px solid #00d4ff; border-radius: 8px; display: inline-block; background: rgba(0, 212, 255, 0.1); transition: all 0.3s ease;">
+      🎨 Click to Reveal Something Cool! ✨
+    </summary>
+    <pre style="font-size:7px;line-height:0.55;max-height:280px;overflow:auto;background:#0b0b0b;color:#00ff88;padding:12px;border-radius:6px;margin-top:12px;border:2px solid #00ff88;box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);">
 **================================+++++++++++++++++++++++++++
 #*=================================++++++++++++++++++++++++++
 #*===========-=======================++++++++++++++++++++++++
@@ -81,7 +85,11 @@
 =++++-..+-..-:::::==+**#%%%@@@@@@@@%%%%%%##**+++-=...........
 ==+++=:+.....::---*=+**##%%%@@@@@@@@@@@%##***+**-:.::--....:-
 =+**++=......-=---*+**###%%%%@@@@@@@@@@%#****#%=-=:+**=...:-=
-  </pre>
+    </pre>
+    <p align="center" style="color: #00ff88; font-weight: bold; font-size: 14px; margin-top: 10px;">
+      🤯 Pretty cool, right? 😎
+    </p>
+  </details>
 </p>
 
 ---
