@@ -1,9 +1,47 @@
 <table>
 <tr>
 
-<td width="42%">
+<td width="58%">
 
-```text
+# 👋 Tholeti Durgeswara Rao
+
+### Java Full Stack Developer
+
+React • Spring Boot • MERN Stack • AI Enthusiast
+
+🚀 Building scalable Java applications
+
+🎓 B.Tech Computer Science Engineering
+
+📍 Andhra Pradesh, India
+
+💼 Open to Software Engineer Opportunities
+
+<br/>
+
+<p>
+  <a href="https://github.com/ESWAR8357" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ESWAR8357-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/tholeti-eswar57" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://tholeti-eswar.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-00acee?style=for-the-badge&logo=google-chrome"></a>
+  <a href="mailto:toletidurgeswararao@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<p>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ESWAR8357&style=flat-square">
+  <img alt="Followers" src="https://img.shields.io/github/followers/ESWAR8357?label=Followers&style=flat-square">
+  <img alt="Stars" src="https://img.shields.io/github/stars/ESWAR8357?label=Stars&style=flat-square">
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0088ff&center=true&vCenter=true&width=520&height=50&lines=Java+Full+Stack+Developer;Spring+Boot;[...]">
+</p>
+
+</td> <td width="42%">
+
+<details>
+<summary><strong>ASCII art (small / collapsible)</strong></summary>
+
+<pre style="font-size:7px;line-height:0.55;max-height:220px;overflow:auto;background:#0b0b0b;color:#c0c0c0;padding:8px;border-radius:6px;">
 **================================+++++++++++++++++++++++++++
 #*=================================++++++++++++++++++++++++++
 #*===========-=======================++++++++++++++++++++++++
@@ -50,42 +88,9 @@
 =++++-..+-..-:::::==+**#%%%@@@@@@@@%%%%%%##**+++-=...........
 ==+++=:+.....::---*=+**##%%%@@@@@@@@@@@%##***+**-:.::--....:-
 =+**++=......-=---*+**###%%%%@@@@@@@@@@%#****#%=-=:+**=...:-=
-```
+</pre>
 
-</td> <td width="58%">
-
-# 👋 Tholeti Durgeswara Rao
-
-### Java Full Stack Developer
-
-React • Spring Boot • MERN Stack • AI Enthusiast
-
-🚀 Building scalable Java applications
-
-🎓 B.Tech Computer Science Engineering
-
-📍 Andhra Pradesh, India
-
-💼 Open to Software Engineer Opportunities
-
-<br/>
-
-<p>
-  <a href="https://github.com/ESWAR8357" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-ESWAR8357-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/tholeti-eswar57" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://tholeti-eswar.vercel.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-00acee?style=for-the-badge&logo=google-chrome"></a>
-  <a href="mailto:toletidurgeswararao@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
-
-<p>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=ESWAR8357&style=flat-square">
-  <img alt="Followers" src="https://img.shields.io/github/followers/ESWAR8357?label=Followers&style=flat-square">
-  <img alt="Stars" src="https://img.shields.io/github/stars/ESWAR8357?label=Stars&style=flat-square">
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0088ff&center=true&vCenter=true&width=520&height=50&lines=Java+Full+Stack+Developer;Spring+Boot;React+Developer;MERN+Stack;AI+Enthusiast;Open+to+Work" alt="Typing SVG"/>
-</p>
+</details>
 
 </td> </tr> </table>
 
@@ -97,7 +102,7 @@ React • Spring Boot • MERN Stack • AI Enthusiast
 
 ## About Me
 
-I’m Tholeti Durgeswara Rao — a Java Full Stack Developer passionate about building resilient, maintainable, and scalable applications. I blend a strong backend foundation in Java and Spring Boot with modern frontend technologies like React and MERN-stack tooling. I enjoy integrating AI capabilities into practical solutions and learning new tooling to ship production-ready software.
+I’m Tholeti Durgeswara Rao — a Java Full Stack Developer passionate about building resilient, maintainable, and scalable applications. I blend a strong backend foundation in Java and Spring Boot w[...] 
 
 ## Current Focus
 
